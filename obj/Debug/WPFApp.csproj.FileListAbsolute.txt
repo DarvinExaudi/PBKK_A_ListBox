@@ -1,0 +1,15 @@
+C:\Users\EXA\source\repos\WPFApp\bin\Debug\WPFApp.exe.config
+C:\Users\EXA\source\repos\WPFApp\bin\Debug\WPFApp.exe
+C:\Users\EXA\source\repos\WPFApp\bin\Debug\WPFApp.pdb
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\WPFApp.csproj.AssemblyReference.cache
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\App.g.cs
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\MainWindow.baml
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\WPFApp.g.resources
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\WPFApp.csproj.CoreCompileInputs.cache
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\WPFApp.exe
+C:\Users\EXA\source\repos\WPFApp\obj\Debug\WPFApp.pdb
